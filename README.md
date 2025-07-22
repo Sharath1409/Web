@@ -9,4 +9,3 @@ This are the Sections in my Portfolio
 3.Education – Details of my academic background.
 4.Skills – List of technical and soft skills I possess.
 5.Contact – A contact form or information on how to reach me.
-
